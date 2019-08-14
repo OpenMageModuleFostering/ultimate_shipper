@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/Ultimate_Shipper",
+    "type": "magento-module",
+    "license": "MITL",
+    "homepage": "",
+    "description": "Ultimate Multi Flat Shipping is a solution that allows to create unlimited flat rate methods for shipping.",
+    "authors": [
+    {
+        "name": "RSMD Partners",
+        "email": "rsmd.partners@gmail.com"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
